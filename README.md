@@ -1,3 +1,3 @@
 # AutomationDemo
 
-sample test1
+sample test1 demo
